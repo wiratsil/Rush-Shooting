@@ -1,1 +1,3 @@
 # Rush-Shooting
+
+Graduation project
